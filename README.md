@@ -205,7 +205,7 @@ CREATE INDEX idx_water_records_date_time ON water_records(date, time);
 
 ```bash
 # 1️⃣ Clone o repositório
-git clone https://github.com/username/beba-agua.git
+git clone https://github.com/josuelJFS/beba-agua.git
 cd beba-agua
 
 # 2️⃣ Instale dependências
@@ -930,10 +930,9 @@ lighthouse-ci autorun
 
 ### **Let's connect and build something amazing together!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuelafk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuel-fernandes-silva/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josuelJFS)
 
 ---
 
