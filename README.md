@@ -3,13 +3,15 @@
 <div align="center">
   <img src="./assets/images/icon.png" alt="Beba Água Logo" width="120" height="120" />
   
-  ### *Stay hydrated, stay healthy* �
+  <strong><em>Stay hydrated, stay healthy 💧</em></strong>
   
-  [![React Native](https://img.shields.io/badge/React%20Native-0.74.5-blue.svg)](https://reactnative.dev/)
-  [![Expo](https://img.shields.io/badge/Expo-51.0.28-black.svg)](https://expo.dev/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-blue.svg)](https://www.typescriptlang.org/)
-  [![NativeWind](https://img.shields.io/badge/NativeWind-4.0.1-06B6D4.svg)](https://www.nativewind.dev/)
-  [![SQLite](https://img.shields.io/badge/SQLite-Local%20Database-green.svg)](https://www.sqlite.org/)
+  <br/>
+  
+  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React%20Native-0.74.5-blue.svg" alt="React Native"/></a>
+  <a href="https://expo.dev/"><img src="https://img.shields.io/badge/Expo-51.0.28-black.svg" alt="Expo"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.3.3-blue.svg" alt="TypeScript"/></a>
+  <a href="https://www.nativewind.dev/"><img src="https://img.shields.io/badge/NativeWind-4.0.1-06B6D4.svg" alt="NativeWind"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-Local%20Database-green.svg" alt="SQLite"/></a>
 </div>
 
 ---
@@ -370,13 +372,14 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 
 <div align="center">
   
-### 💧 *Desenvolvido com paixão por hidratação e código limpo* 💧
-
-**[📧 Contato](mailto:dev@email.com)** • **[💼 LinkedIn](https://linkedin.com/in/dev)** • **[🌐 Portfolio](https://portfolio.dev)**
-
+  <strong>💧 Desenvolvido com paixão por hidratação e código limpo 💧</strong>
+  
+  <a href="mailto:dev@email.com">📧 Contato</a> • <a href="https://linkedin.com/in/dev">💼 LinkedIn</a> • <a href="https://portfolio.dev">🌐 Portfolio</a>
 </div>
 "# Beba-gua" 
-#   B e b a - g u a  
+#   B e b a - g u a 
+ 
  "# Beba-gua" 
-#   B e b a - g u a  
+#   B e b a - g u a 
+ 
  
